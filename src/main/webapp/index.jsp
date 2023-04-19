@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Devops course <font></h1>
+<h1><font color='red'>Welcome to  course <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
 <a href="https://devopstech.com/online-training-schedules">Click Here To See Devops Training Schedules</a>
